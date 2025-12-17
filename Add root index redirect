@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>Zona Gamer</title>
+  <!-- Redirige automáticamente a la carpeta tienda-play -->
+  <meta http-equiv="refresh" content="0; url=tienda-play/">
+</head>
+<body style="background:#020617;color:#e5e7eb;font-family:sans-serif">
+  <p>Redirigiendo a <a href="tienda-play/">tienda-play/</a>…</p>
+</body>
+</html>
